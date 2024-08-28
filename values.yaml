@@ -1,0 +1,10 @@
+machineName: testmachine4
+description: "some description again"
+nameSpace: default
+storageSize: 30Gi
+#datadiskSize: 30Gi
+secretKeyName: n-key
+cores: 2
+sockets: 1
+threads: 1
+storageClassName: ocs-storagecluster-ceph-rbd
